@@ -14,5 +14,3 @@ Dada uma planilha com os índices de inflação mundial no ano de 2022, o desafi
 
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-FFFF00?style=for-the-badge&logo=google-colab&logoColor=black)
 
-![UNIFACS](https://aic.unifacs.br/unifacs.jpg)
-
